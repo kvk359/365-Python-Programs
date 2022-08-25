@@ -19,4 +19,4 @@ for x in range(1,ask + 1):
             with open("file.txt","a") as file:
                 file.write(str(y) + "\n")
                 print(y)
-            break
+            brea
